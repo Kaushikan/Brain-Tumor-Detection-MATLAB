@@ -10,7 +10,7 @@ This project implements a Brain Tumor Detection system using deep learning techn
 1. Download the trained model from the link above.
 2. Open MATLAB and load the model.
 ```matlab
-load('trainedNASNetLarge.mat')
+net = load('trainedNASNetLarge.mat')
 ```
 3. Run the preprocessing steps on your MRI images.
 ```matlab
