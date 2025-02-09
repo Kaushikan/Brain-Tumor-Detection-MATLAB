@@ -1,5 +1,5 @@
 # Brain-Tumor-Detection-MATLAB
-This project implements a Brain Tumor Detection system using deep learning techniques in MATLAB. The model is trained through transfer learning using the NasNetLarge Convolutional Neural Network (CNN).
+This project implements a Brain Tumor Detection using deep learning techniques in MATLAB. The model is trained through transfer learning using the NasNetLarge Convolutional Neural Network (CNN).
 
 ## 📂 Contents
 - **Dataset**: [Download Here](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
